@@ -1,0 +1,49 @@
+<svg width="1138" height="434" viewBox="0 0 1138 434" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="combined-schematic-primitives: EasyEDA source on left, converted Circuit JSON on right" data-left-renderer="easyedats" data-right-renderer="circuit-to-svg">
+  <g transform="translate(0, 0) scale(1, 1) translate(0, 0)">
+    <g transform="translate(0, 0) scale(1, 1) translate(0, 0)">
+    <rect width="560" height="34" fill="#111827" />
+  <text x="14" y="23" fill="#f8fafc" font-family="ui-monospace, monospace" font-size="14">EasyEDA source · easyedats</text>
+  </g>
+  <g transform="translate(0, 34) scale(3.6363636363636362, 3.508771929824561) translate(2, 2)">
+    <title>combined-schematic-primitives EasyEDA source</title>
+<rect class="easyeda-background" x="-2" y="-2" width="154" height="114" fill="#ffffff"/>
+<g class="easyeda-shapes" stroke-linecap="round" stroke-linejoin="round">
+<rect data-easyeda-shape="R" data-easyeda-id="gge-combined-body__stack1" x="54" y="34" width="46" height="38" rx="0" ry="0" fill="#FFFACD" stroke="#880000" stroke-width="2"/>
+<text data-easyeda-shape="T" data-easyeda-id="gge-combined-label__stack1" x="77" y="56" fill="#000080" font-family="Arial, sans-serif" font-size="8" text-anchor="middle">MCU</text>
+<polyline data-easyeda-shape="W" data-easyeda-id="gge-combined-wire-left__stack1" points="18,44 54,44" fill="none" stroke="#008800" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline data-easyeda-shape="W" data-easyeda-id="gge-combined-wire-right__stack1" points="100,44 134,44 134,84 77,84 77,72" fill="none" stroke="#008800" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+<circle data-easyeda-shape="J" data-easyeda-id="gge-combined-junction__stack1" cx="77" cy="84" r="2.5" fill="#CC0000"/>
+<text data-easyeda-shape="N" data-easyeda-id="gge-combined-net__stack1" x="22" y="44" fill="#000080" font-family="Arial, sans-serif" font-size="7" text-anchor="start">SDA</text>
+<ellipse data-easyeda-shape="C" data-easyeda-id="gge-combined-circle__stack1" cx="120" cy="68" rx="8" ry="8" fill="none" stroke="#880000" stroke-width="1"/>
+<path data-easyeda-shape="O" data-easyeda-id="gge-combined-no-connect__stack1" d="M 35 79 L 41 85 M 41 79 L 35 85" fill="none" stroke="#cc0000" stroke-width="1"/>
+</g>
+  </g>
+  </g>
+  <g transform="translate(578, 0) scale(1, 1) translate(0, 0)">
+    <g transform="translate(0, 0) scale(1, 1) translate(0, 0)">
+    <rect width="560" height="34" fill="#111827" />
+  <text x="14" y="23" fill="#f8fafc" font-family="ui-monospace, monospace" font-size="14">Converted Circuit JSON · circuit-to-svg</text>
+  </g>
+  <g transform="translate(0, 34)">
+    <style>
+              .boundary { fill: #ffffff; }
+              .schematic-boundary { fill: none; stroke: #fff; }
+              .component { fill: none; stroke: #880000; }
+              .chip { fill: rgb(255, 255, 194); stroke: #880000; }
+              .component-pin { fill: none; stroke: #880000; }
+              .text { font-family: sans-serif; fill: #008800; }
+              .pin-number { fill: rgb(169, 0, 0); }
+              .port-label { fill: #000080; }
+              .component-name { fill: #000080; }
+
+            </style><rect class="boundary" x="0" y="0" width="560" height="400"/><g class="trace sch-trace" data-layer="base" data-circuit-json-type="schematic_trace" data-schematic-trace-id="schematic_trace_gge-combined-wire-left__stack1__stack1"><path d="M 79.8894263994252 161.3821700068616 L 206.27505183127562 161.3821700068616" class="trace-invisible-hover-outline sch-trace-hitbox" stroke="#008800" fill="none" stroke-width="2.211472011056px" stroke-linecap="round" opacity="0" stroke-linejoin="round"/><path class="sch-trace-path" d="M 79.8894263994252 161.3821700068616 L 206.27505183127562 161.3821700068616" stroke="#008800" fill="none" stroke-width="0.276434001382px" stroke-linecap="round" stroke-linejoin="round"/></g><g class="trace sch-trace" data-layer="base" data-circuit-json-type="schematic_trace" data-schematic-trace-id="schematic_trace_gge-combined-wire-right__stack1__stack1"><path d="M 367.76779543864 161.3821700068616 L 487.13199723538764 161.3821700068616 L 487.13199723538764 301.8106427089176 L 287.0214236349578 301.8106427089176 L 287.0214236349578 259.6821008983008" class="trace-invisible-hover-outline sch-trace-hitbox" stroke="#008800" fill="none" stroke-width="2.211472011056px" stroke-linecap="round" opacity="0" stroke-linejoin="round"/><path class="sch-trace-path" d="M 367.76779543864 161.3821700068616 L 487.13199723538764 161.3821700068616 L 487.13199723538764 301.8106427089176 L 287.0214236349578 301.8106427089176 L 287.0214236349578 259.6821008983008" stroke="#008800" fill="none" stroke-width="0.276434001382px" stroke-linecap="round" stroke-linejoin="round"/></g><g class="trace-overlays sch-trace-overlays" data-layer="overlay" data-circuit-json-type="schematic_trace" data-schematic-trace-id="schematic_trace_gge-combined-wire-left__stack1__stack1"/><g class="trace-overlays sch-trace-overlays" data-layer="overlay" data-circuit-json-type="schematic_trace" data-schematic-trace-id="schematic_trace_gge-combined-wire-right__stack1__stack1"><circle cx="287.0214236349578" cy="301.8106427089176" r="0.414651002073" class="trace-junction sch-trace-junction" fill="#cc0000"/></g><line class="sch-line" x1="139.571527297799" y1="305.321354526469" x2="160.63579820310744" y2="284.2570836211606" stroke="#cc0000" stroke-width="3.5107118175514" data-schematic-line-id="schematic_line_gge-combined-no-connect_forward__stack1__stack1"/><line class="sch-line" x1="160.63579820310744" y1="305.321354526469" x2="139.571527297799" y2="284.2570836211606" stroke="#cc0000" stroke-width="3.5107118175514" data-schematic-line-id="schematic_line_gge-combined-no-connect_back__stack1__stack1"/><circle class="sch-circle" cx="437.98203178966804" cy="245.6392536280952" r="28.0856945404112" fill="none" stroke="#880000" stroke-width="3.5107118175514" data-schematic-circle-id="schematic_circle_gge-combined-circle__stack1__stack1"/><rect class="sch-rect" x="206.27505183127556" y="126.27505183134758" width="161.49274360736442" height="133.40704906695322" fill="#FFFACD" stroke="#880000" stroke-width="7.0214236351028" data-schematic-rect-id="schematic_rect_gge-combined-body__stack1__stack1"/><rect class="sch-rect" x="16.696613683500004" y="6.910850034600003" width="526.60677263271" height="386.178299930654" fill="none" stroke="transparent" stroke-width="0" data-schematic-rect-id="visual_comparison_source_bounds__stack1__stack1"/><path class="net-label sch-net-label" data-circuit-json-type="schematic_net_label" data-schematic-net-label-id="schematic_net_label_gge-combined-net__stack1__stack1" d="
+    M 90.33126007829462,161.3821700068616
+    L 91.07763188202603,159.9999999999516
+    L 97.533287260967,159.9999999999516
+    L 97.533287260967,162.7643400137716
+    L 91.07763188202603,162.7643400137716
+    Z
+  " fill="rgba(255, 255, 255, 0.6)" stroke="rgb(132, 0, 0)" stroke-width="0.276434001382px"/><text class="net-label-text sch-net-label-text" data-circuit-json-type="schematic_net_label" data-schematic-net-label-id="schematic_net_label_gge-combined-net__stack1__stack1" x="91.57521308451362" y="161.3821700068616" fill="rgb(132, 0, 0)" text-anchor="start" dominant-baseline="central" font-family="sans-serif" font-variant-numeric="tabular-nums" font-size="2.487906012438px" transform="">SDA</text><text class="sch-text" x="287.0214236349578" y="203.5107118174784" fill="#000080" text-anchor="middle" dominant-baseline="ideographic" font-family="sans-serif" font-size="28.0856945404112px" transform="rotate(0, 287.0214236349578, 203.5107118174784)">MCU</text>
+  </g>
+  </g>
+</svg>

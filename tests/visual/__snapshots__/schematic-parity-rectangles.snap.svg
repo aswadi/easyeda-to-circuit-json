@@ -1,0 +1,37 @@
+<svg width="1138" height="434" viewBox="0 0 1138 434" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="rectangles: EasyEDA source on left, converted Circuit JSON on right" data-left-renderer="easyedats" data-right-renderer="circuit-to-svg">
+  <g transform="translate(0, 0) scale(1, 1) translate(0, 0)">
+    <g transform="translate(0, 0) scale(1, 1) translate(0, 0)">
+    <rect width="560" height="34" fill="#111827" />
+  <text x="14" y="23" fill="#f8fafc" font-family="ui-monospace, monospace" font-size="14">EasyEDA source · easyedats</text>
+  </g>
+  <g transform="translate(0, 34) scale(3.6363636363636362, 3.508771929824561) translate(2, 2)">
+    <title>rectangles EasyEDA source</title>
+<rect class="easyeda-background" x="-2" y="-2" width="154" height="114" fill="#ffffff"/>
+<g class="easyeda-shapes" stroke-linecap="round" stroke-linejoin="round">
+<rect data-easyeda-shape="R" data-easyeda-id="gge-rect-outline__stack1" x="18" y="18" width="48" height="34" rx="0" ry="0" fill="none" stroke="#880000" stroke-width="1"/>
+<rect data-easyeda-shape="R" data-easyeda-id="gge-rect-filled__stack1" x="82" y="18" width="48" height="34" rx="0" ry="0" fill="#E8F4F4" stroke="#008080" stroke-width="2"/>
+<rect data-easyeda-shape="R" data-easyeda-id="gge-rect-wide__stack1" x="40" y="68" width="68" height="24" rx="0" ry="0" fill="none" stroke="#000080" stroke-width="1"/>
+</g>
+  </g>
+  </g>
+  <g transform="translate(578, 0) scale(1, 1) translate(0, 0)">
+    <g transform="translate(0, 0) scale(1, 1) translate(0, 0)">
+    <rect width="560" height="34" fill="#111827" />
+  <text x="14" y="23" fill="#f8fafc" font-family="ui-monospace, monospace" font-size="14">Converted Circuit JSON · circuit-to-svg</text>
+  </g>
+  <g transform="translate(0, 34)">
+    <style>
+              .boundary { fill: #ffffff; }
+              .schematic-boundary { fill: none; stroke: #fff; }
+              .component { fill: none; stroke: #880000; }
+              .chip { fill: rgb(255, 255, 194); stroke: #880000; }
+              .component-pin { fill: none; stroke: #880000; }
+              .text { font-family: sans-serif; fill: #008800; }
+              .pin-number { fill: rgb(169, 0, 0); }
+              .port-label { fill: #000080; }
+              .component-name { fill: #000080; }
+
+            </style><rect class="boundary" x="0" y="0" width="560" height="400"/><rect class="sch-rect" x="79.8894263994252" y="70.10366275052522" width="168.5141672424672" height="119.3642017967476" fill="none" stroke="#880000" stroke-width="3.5107118175514" data-schematic-rect-id="schematic_rect_gge-rect-outline__stack1__stack1"/><rect class="sch-rect" x="304.57498272271476" y="70.10366275052522" width="168.5141672424672" height="119.3642017967476" fill="#E8F4F4" stroke="#008080" stroke-width="7.0214236351028" data-schematic-rect-id="schematic_rect_gge-rect-filled__stack1__stack1"/><rect class="sch-rect" x="157.12508638555602" y="245.63925362809522" width="238.7284035934952" height="84.2570836212336" fill="none" stroke="#000080" stroke-width="3.5107118175514" data-schematic-rect-id="schematic_rect_gge-rect-wide__stack1__stack1"/><rect class="sch-rect" x="16.696613683500004" y="6.910850034600003" width="526.60677263271" height="386.178299930654" fill="none" stroke="transparent" stroke-width="0" data-schematic-rect-id="visual_comparison_source_bounds__stack1__stack1"/>
+  </g>
+  </g>
+</svg>

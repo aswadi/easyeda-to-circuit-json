@@ -1,0 +1,52 @@
+<svg width="1138" height="434" viewBox="0 0 1138 434" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="text-and-net-labels: EasyEDA source on left, converted Circuit JSON on right" data-left-renderer="easyedats" data-right-renderer="circuit-to-svg">
+  <g transform="translate(0, 0) scale(1, 1) translate(0, 0)">
+    <g transform="translate(0, 0) scale(1, 1) translate(0, 0)">
+    <rect width="560" height="34" fill="#111827" />
+  <text x="14" y="23" fill="#f8fafc" font-family="ui-monospace, monospace" font-size="14">EasyEDA source · easyedats</text>
+  </g>
+  <g transform="translate(0, 34) scale(3.6363636363636362, 3.508771929824561) translate(2, 2)">
+    <title>text-and-net-labels EasyEDA source</title>
+<rect class="easyeda-background" x="-2" y="-2" width="154" height="114" fill="#ffffff"/>
+<g class="easyeda-shapes" stroke-linecap="round" stroke-linejoin="round">
+<text data-easyeda-shape="T" data-easyeda-id="gge-text-left__stack1" x="25" y="38" fill="#0000FF" font-family="Arial, sans-serif" font-size="11" text-anchor="start">Sensor Hub</text>
+<text data-easyeda-shape="T" data-easyeda-id="gge-text-center__stack1" x="75" y="62" fill="#880000" font-family="Arial, sans-serif" font-size="9" text-anchor="middle">U1 / RP2040</text>
+<text data-easyeda-shape="N" data-easyeda-id="gge-net-sda__stack1" x="28" y="88" fill="#000080" font-family="Arial, sans-serif" font-size="7" text-anchor="start">SDA</text>
+<text data-easyeda-shape="N" data-easyeda-id="gge-net-scl__stack1" x="98" y="88" fill="#000080" font-family="Arial, sans-serif" font-size="7" text-anchor="start">SCL</text>
+</g>
+  </g>
+  </g>
+  <g transform="translate(578, 0) scale(1, 1) translate(0, 0)">
+    <g transform="translate(0, 0) scale(1, 1) translate(0, 0)">
+    <rect width="560" height="34" fill="#111827" />
+  <text x="14" y="23" fill="#f8fafc" font-family="ui-monospace, monospace" font-size="14">Converted Circuit JSON · circuit-to-svg</text>
+  </g>
+  <g transform="translate(0, 34)">
+    <style>
+              .boundary { fill: #ffffff; }
+              .schematic-boundary { fill: none; stroke: #fff; }
+              .component { fill: none; stroke: #880000; }
+              .chip { fill: rgb(255, 255, 194); stroke: #880000; }
+              .component-pin { fill: none; stroke: #880000; }
+              .text { font-family: sans-serif; fill: #008800; }
+              .pin-number { fill: rgb(169, 0, 0); }
+              .port-label { fill: #000080; }
+              .component-name { fill: #000080; }
+
+            </style><rect class="boundary" x="0" y="0" width="560" height="400"/><rect class="sch-rect" x="97.3287671233" y="32.55136986299999" width="456.67808219319" height="334.897260275006" fill="none" stroke="transparent" stroke-width="0" data-schematic-rect-id="visual_comparison_source_bounds__stack1__stack1"/><path class="net-label sch-net-label" data-circuit-json-type="schematic_net_label" data-schematic-net-label-id="schematic_net_label_gge-net-sda__stack1__stack1" d="
+    M 179.45251141579087,300.4691780830048
+    L 180.09977168976548,299.2705479460148
+    L 185.69817351626676,299.2705479460148
+    L 185.69817351626676,301.6678082199948
+    L 180.09977168976548,301.6678082199948
+    Z
+  " fill="rgba(255, 255, 255, 0.6)" stroke="rgb(132, 0, 0)" stroke-width="0.239726027398px"/><text class="net-label-text sch-net-label-text" data-circuit-json-type="schematic_net_label" data-schematic-net-label-id="schematic_net_label_gge-net-sda__stack1__stack1" x="180.53127853908185" y="300.4691780830048" fill="rgb(132, 0, 0)" text-anchor="start" dominant-baseline="central" font-family="sans-serif" font-variant-numeric="tabular-nums" font-size="2.1575342465819998px" transform="">SDA</text><path class="net-label sch-net-label" data-circuit-json-type="schematic_net_label" data-schematic-net-label-id="schematic_net_label_gge-net-scl__stack1__stack1" d="
+    M 392.6888127863118,300.4691780830048
+    L 393.3360730602864,299.2705479460148
+    L 398.69474885938973,299.2705479460148
+    L 398.69474885938973,301.6678082199948
+    L 393.3360730602864,301.6678082199948
+    Z
+  " fill="rgba(255, 255, 255, 0.6)" stroke="rgb(132, 0, 0)" stroke-width="0.239726027398px"/><text class="net-label-text sch-net-label-text" data-circuit-json-type="schematic_net_label" data-schematic-net-label-id="schematic_net_label_gge-net-scl__stack1__stack1" x="393.76757990960283" y="300.4691780830048" fill="rgb(132, 0, 0)" text-anchor="start" dominant-baseline="central" font-family="sans-serif" font-variant-numeric="tabular-nums" font-size="2.1575342465819998px" transform="">SCL</text><text class="sch-text" x="173.441780822165" y="148.2431506852748" fill="#0000FF" text-anchor="start" dominant-baseline="ideographic" font-family="sans-serif" font-size="33.4897260275006px" transform="rotate(0, 173.441780822165, 148.2431506852748)">Sensor Hub</text><text class="sch-text" x="325.667808219895" y="221.3116438361852" fill="#880000" text-anchor="middle" dominant-baseline="ideographic" font-family="sans-serif" font-size="27.4006849315914px" transform="rotate(0, 325.667808219895, 221.3116438361852)">U1 / RP2040</text>
+  </g>
+  </g>
+</svg>

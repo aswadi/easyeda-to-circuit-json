@@ -1,0 +1,38 @@
+<svg width="1138" height="434" viewBox="0 0 1138 434" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="buses-and-no-connects: EasyEDA source on left, converted Circuit JSON on right" data-left-renderer="easyedats" data-right-renderer="circuit-to-svg">
+  <g transform="translate(0, 0) scale(1, 1) translate(0, 0)">
+    <g transform="translate(0, 0) scale(1, 1) translate(0, 0)">
+    <rect width="560" height="34" fill="#111827" />
+  <text x="14" y="23" fill="#f8fafc" font-family="ui-monospace, monospace" font-size="14">EasyEDA source · easyedats</text>
+  </g>
+  <g transform="translate(0, 34) scale(3.6363636363636362, 3.508771929824561) translate(2, 2)">
+    <title>buses-and-no-connects EasyEDA source</title>
+<rect class="easyeda-background" x="-2" y="-2" width="154" height="114" fill="#ffffff"/>
+<g class="easyeda-shapes" stroke-linecap="round" stroke-linejoin="round">
+<polyline data-easyeda-shape="B" data-easyeda-id="gge-bus-main__stack1" points="18,26 50,26 50,84 130,84" fill="none" stroke="#0000FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<line data-easyeda-shape="BE" data-easyeda-id="gge-bus-entry-main__stack1" x1="50" y1="48" x2="66" y2="64" stroke="#0000FF" stroke-width="2"/>
+<path data-easyeda-shape="O" data-easyeda-id="gge-no-connect-a__stack1" d="M 75 61 L 81 67 M 81 61 L 75 67" fill="none" stroke="#cc0000" stroke-width="1"/>
+<path data-easyeda-shape="O" data-easyeda-id="gge-no-connect-b__stack1" d="M 109 43 L 115 49 M 115 43 L 109 49" fill="none" stroke="#cc0000" stroke-width="1"/>
+</g>
+  </g>
+  </g>
+  <g transform="translate(578, 0) scale(1, 1) translate(0, 0)">
+    <g transform="translate(0, 0) scale(1, 1) translate(0, 0)">
+    <rect width="560" height="34" fill="#111827" />
+  <text x="14" y="23" fill="#f8fafc" font-family="ui-monospace, monospace" font-size="14">Converted Circuit JSON · circuit-to-svg</text>
+  </g>
+  <g transform="translate(0, 34)">
+    <style>
+              .boundary { fill: #ffffff; }
+              .schematic-boundary { fill: none; stroke: #fff; }
+              .component { fill: none; stroke: #880000; }
+              .chip { fill: rgb(255, 255, 194); stroke: #880000; }
+              .component-pin { fill: none; stroke: #880000; }
+              .text { font-family: sans-serif; fill: #008800; }
+              .pin-number { fill: rgb(169, 0, 0); }
+              .port-label { fill: #000080; }
+              .component-name { fill: #000080; }
+
+            </style><rect class="boundary" x="0" y="0" width="560" height="400"/><line class="sch-line" x1="192.23220456107" y1="175.4250172770672" x2="248.4035936418924" y2="231.5964063578896" stroke="#0000FF" stroke-width="7.0214236351028" data-schematic-line-id="schematic_line_gge-bus-entry-main__stack1__stack1"/><line class="sch-line" x1="279.999999999855" y1="242.12854181054382" x2="301.0642709051634" y2="221.06427090523542" stroke="#cc0000" stroke-width="3.5107118175514" data-schematic-line-id="schematic_line_gge-no-connect-a_forward__stack1__stack1"/><line class="sch-line" x1="301.0642709051634" y1="242.12854181054382" x2="279.999999999855" y2="221.06427090523542" stroke="#cc0000" stroke-width="3.5107118175514" data-schematic-line-id="schematic_line_gge-no-connect-a_back__stack1__stack1"/><line class="sch-line" x1="399.36420179660263" y1="178.93572909461864" x2="420.428472701911" y2="157.8714581893102" stroke="#cc0000" stroke-width="3.5107118175514" data-schematic-line-id="schematic_line_gge-no-connect-b_forward__stack1__stack1"/><line class="sch-line" x1="420.428472701911" y1="178.93572909461864" x2="399.36420179660263" y2="157.8714581893102" stroke="#cc0000" stroke-width="3.5107118175514" data-schematic-line-id="schematic_line_gge-no-connect-b_back__stack1__stack1"/><rect class="sch-rect" x="16.696613683500004" y="6.910850034600003" width="526.60677263271" height="386.178299930654" fill="none" stroke="transparent" stroke-width="0" data-schematic-rect-id="visual_comparison_source_bounds__stack1__stack1"/><path class="sch-path" d="M 79.8894263994252 98.1893572909364 L 192.23220456107 98.1893572909364 L 192.23220456107 301.8106427089176 L 473.08914996518206 301.8106427089176" stroke="#0000FF" stroke-width="7.0214236351028" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  </g>
+</svg>
