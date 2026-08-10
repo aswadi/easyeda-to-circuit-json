@@ -1,0 +1,21 @@
+# dependencies
+node_modules
+bun.lock
+
+# generated output
+dist
+coverage
+*.tgz
+*.tsbuildinfo
+
+# visual snapshot diffs
+__diff_output__
+
+# editor and operating system files
+.DS_Store
+.idea
+.cursor
+
+# local environment files
+.env
+.env.*.local
