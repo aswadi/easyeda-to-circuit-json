@@ -1,0 +1,38 @@
+<svg width="1138" height="434" viewBox="0 0 1138 434" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="wires-and-junctions: EasyEDA source on left, converted Circuit JSON on right" data-left-renderer="easyedats" data-right-renderer="circuit-to-svg">
+  <g transform="translate(0, 0) scale(1, 1) translate(0, 0)">
+    <g transform="translate(0, 0) scale(1, 1) translate(0, 0)">
+    <rect width="560" height="34" fill="#111827" />
+  <text x="14" y="23" fill="#f8fafc" font-family="ui-monospace, monospace" font-size="14">EasyEDA source · easyedats</text>
+  </g>
+  <g transform="translate(0, 34) scale(3.6363636363636362, 3.508771929824561) translate(2, 2)">
+    <title>wires-and-junctions EasyEDA source</title>
+<rect class="easyeda-background" x="-2" y="-2" width="154" height="114" fill="#ffffff"/>
+<g class="easyeda-shapes" stroke-linecap="round" stroke-linejoin="round">
+<polyline data-easyeda-shape="W" data-easyeda-id="gge-wire-a__stack1" points="20,25 75,25 75,85 130,85" fill="none" stroke="#008800" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline data-easyeda-shape="W" data-easyeda-id="gge-wire-b__stack1" points="75,25 130,25 130,85" fill="none" stroke="#008800" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+<circle data-easyeda-shape="J" data-easyeda-id="gge-junction-a__stack1" cx="75" cy="25" r="2.5" fill="#CC0000"/>
+<circle data-easyeda-shape="J" data-easyeda-id="gge-junction-b__stack1" cx="130" cy="85" r="2.5" fill="#CC0000"/>
+</g>
+  </g>
+  </g>
+  <g transform="translate(578, 0) scale(1, 1) translate(0, 0)">
+    <g transform="translate(0, 0) scale(1, 1) translate(0, 0)">
+    <rect width="560" height="34" fill="#111827" />
+  <text x="14" y="23" fill="#f8fafc" font-family="ui-monospace, monospace" font-size="14">Converted Circuit JSON · circuit-to-svg</text>
+  </g>
+  <g transform="translate(0, 34)">
+    <style>
+              .boundary { fill: #ffffff; }
+              .schematic-boundary { fill: none; stroke: #fff; }
+              .component { fill: none; stroke: #880000; }
+              .chip { fill: rgb(255, 255, 194); stroke: #880000; }
+              .component-pin { fill: none; stroke: #880000; }
+              .text { font-family: sans-serif; fill: #008800; }
+              .pin-number { fill: rgb(169, 0, 0); }
+              .port-label { fill: #000080; }
+              .component-name { fill: #000080; }
+
+            </style><rect class="boundary" x="0" y="0" width="560" height="400"/><g class="trace sch-trace" data-layer="base" data-circuit-json-type="schematic_trace" data-schematic-trace-id="schematic_trace_gge-wire-a__stack1__stack1"><path d="M 86.91085003452801 94.678645473385 L 279.999999999855 94.678645473385 L 279.999999999855 305.321354526469 L 473.08914996518206 305.321354526469" class="trace-invisible-hover-outline sch-trace-hitbox" stroke="#008800" fill="none" stroke-width="2.211472011056px" stroke-linecap="round" opacity="0" stroke-linejoin="round"/><path class="sch-trace-path" d="M 86.91085003452801 94.678645473385 L 279.999999999855 94.678645473385 L 279.999999999855 305.321354526469 L 473.08914996518206 305.321354526469" stroke="#008800" fill="none" stroke-width="0.276434001382px" stroke-linecap="round" stroke-linejoin="round"/></g><g class="trace sch-trace" data-layer="base" data-circuit-json-type="schematic_trace" data-schematic-trace-id="schematic_trace_gge-wire-b__stack1__stack1"><path d="M 279.999999999855 94.678645473385 L 473.08914996518206 94.678645473385 L 473.08914996518206 305.321354526469" class="trace-invisible-hover-outline sch-trace-hitbox" stroke="#008800" fill="none" stroke-width="2.211472011056px" stroke-linecap="round" opacity="0" stroke-linejoin="round"/><path class="sch-trace-path" d="M 279.999999999855 94.678645473385 L 473.08914996518206 94.678645473385 L 473.08914996518206 305.321354526469" stroke="#008800" fill="none" stroke-width="0.276434001382px" stroke-linecap="round" stroke-linejoin="round"/></g><g class="trace-overlays sch-trace-overlays" data-layer="overlay" data-circuit-json-type="schematic_trace" data-schematic-trace-id="schematic_trace_gge-wire-a__stack1__stack1"><circle cx="279.999999999855" cy="94.678645473385" r="0.414651002073" class="trace-junction sch-trace-junction" fill="#cc0000"/><circle cx="473.08914996518206" cy="305.321354526469" r="0.414651002073" class="trace-junction sch-trace-junction" fill="#cc0000"/></g><g class="trace-overlays sch-trace-overlays" data-layer="overlay" data-circuit-json-type="schematic_trace" data-schematic-trace-id="schematic_trace_gge-wire-b__stack1__stack1"><circle cx="279.999999999855" cy="94.678645473385" r="0.414651002073" class="trace-junction sch-trace-junction" fill="#cc0000"/><circle cx="473.08914996518206" cy="305.321354526469" r="0.414651002073" class="trace-junction sch-trace-junction" fill="#cc0000"/></g><rect class="sch-rect" x="16.696613683500004" y="6.910850034600003" width="526.60677263271" height="386.178299930654" fill="none" stroke="transparent" stroke-width="0" data-schematic-rect-id="visual_comparison_source_bounds__stack1__stack1"/>
+  </g>
+  </g>
+</svg>

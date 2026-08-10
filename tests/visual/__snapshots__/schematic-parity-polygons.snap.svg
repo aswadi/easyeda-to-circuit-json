@@ -1,0 +1,36 @@
+<svg width="1138" height="434" viewBox="0 0 1138 434" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="polygons: EasyEDA source on left, converted Circuit JSON on right" data-left-renderer="easyedats" data-right-renderer="circuit-to-svg">
+  <g transform="translate(0, 0) scale(1, 1) translate(0, 0)">
+    <g transform="translate(0, 0) scale(1, 1) translate(0, 0)">
+    <rect width="560" height="34" fill="#111827" />
+  <text x="14" y="23" fill="#f8fafc" font-family="ui-monospace, monospace" font-size="14">EasyEDA source · easyedats</text>
+  </g>
+  <g transform="translate(0, 34) scale(3.6363636363636362, 3.508771929824561) translate(2, 2)">
+    <title>polygons EasyEDA source</title>
+<rect class="easyeda-background" x="-2" y="-2" width="154" height="114" fill="#ffffff"/>
+<g class="easyeda-shapes" stroke-linecap="round" stroke-linejoin="round">
+<polygon data-easyeda-shape="PG" data-easyeda-id="gge-polygon-triangle__stack1" points="22,88 48,30 74,88" fill="#F6E4CF" stroke="#880000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon data-easyeda-shape="PG" data-easyeda-id="gge-polygon-pentagon__stack1" points="88,32 126,32 138,62 107,90 76,62" fill="#DFF6EC" stroke="#008080" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+  </g>
+  </g>
+  <g transform="translate(578, 0) scale(1, 1) translate(0, 0)">
+    <g transform="translate(0, 0) scale(1, 1) translate(0, 0)">
+    <rect width="560" height="34" fill="#111827" />
+  <text x="14" y="23" fill="#f8fafc" font-family="ui-monospace, monospace" font-size="14">Converted Circuit JSON · circuit-to-svg</text>
+  </g>
+  <g transform="translate(0, 34)">
+    <style>
+              .boundary { fill: #ffffff; }
+              .schematic-boundary { fill: none; stroke: #fff; }
+              .component { fill: none; stroke: #880000; }
+              .chip { fill: rgb(255, 255, 194); stroke: #880000; }
+              .component-pin { fill: none; stroke: #880000; }
+              .text { font-family: sans-serif; fill: #008800; }
+              .pin-number { fill: rgb(169, 0, 0); }
+              .port-label { fill: #000080; }
+              .component-name { fill: #000080; }
+
+            </style><rect class="boundary" x="0" y="0" width="560" height="400"/><rect class="sch-rect" x="16.696613683500004" y="6.910850034600003" width="526.60677263271" height="386.178299930654" fill="none" stroke="transparent" stroke-width="0" data-schematic-rect-id="visual_comparison_source_bounds__stack1__stack1"/><path class="sch-path" d="M 93.9322736696308 315.8534899791232 L 185.2107809259672 112.23220456114201 L 276.4892881823036 315.8534899791232 L 93.9322736696308 315.8534899791232" stroke="#880000" stroke-width="7.0214236351028" fill="#F6E4CF" stroke-linecap="round" stroke-linejoin="round"/><path class="sch-path" d="M 325.6392536280232 119.2536281962448 L 459.04630269497636 119.2536281962448 L 501.1748445055932 224.5749827227868 L 392.34277816149984 322.874913614226 L 283.51071181740645 224.5749827227868 L 325.6392536280232 119.2536281962448" stroke="#008080" stroke-width="3.5107118175514" fill="#DFF6EC" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  </g>
+</svg>

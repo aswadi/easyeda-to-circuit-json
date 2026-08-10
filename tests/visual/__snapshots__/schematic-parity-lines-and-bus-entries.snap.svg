@@ -1,0 +1,38 @@
+<svg width="1138" height="434" viewBox="0 0 1138 434" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="lines-and-bus-entries: EasyEDA source on left, converted Circuit JSON on right" data-left-renderer="easyedats" data-right-renderer="circuit-to-svg">
+  <g transform="translate(0, 0) scale(1, 1) translate(0, 0)">
+    <g transform="translate(0, 0) scale(1, 1) translate(0, 0)">
+    <rect width="560" height="34" fill="#111827" />
+  <text x="14" y="23" fill="#f8fafc" font-family="ui-monospace, monospace" font-size="14">EasyEDA source · easyedats</text>
+  </g>
+  <g transform="translate(0, 34) scale(3.6363636363636362, 3.508771929824561) translate(2, 2)">
+    <title>lines-and-bus-entries EasyEDA source</title>
+<rect class="easyeda-background" x="-2" y="-2" width="154" height="114" fill="#ffffff"/>
+<g class="easyeda-shapes" stroke-linecap="round" stroke-linejoin="round">
+<line data-easyeda-shape="L" data-easyeda-id="gge-line-horizontal__stack1" x1="20" y1="20" x2="130" y2="20" stroke="#880000" stroke-width="1"/>
+<line data-easyeda-shape="L" data-easyeda-id="gge-line-diagonal__stack1" x1="20" y1="36" x2="130" y2="96" stroke="#008080" stroke-width="2"/>
+<line data-easyeda-shape="BE" data-easyeda-id="gge-bus-entry-a__stack1" x1="35" y1="82" x2="50" y2="67" stroke="#0000FF" stroke-width="2"/>
+<line data-easyeda-shape="BE" data-easyeda-id="gge-bus-entry-b__stack1" x1="100" y1="82" x2="115" y2="67" stroke="#0000FF" stroke-width="2"/>
+</g>
+  </g>
+  </g>
+  <g transform="translate(578, 0) scale(1, 1) translate(0, 0)">
+    <g transform="translate(0, 0) scale(1, 1) translate(0, 0)">
+    <rect width="560" height="34" fill="#111827" />
+  <text x="14" y="23" fill="#f8fafc" font-family="ui-monospace, monospace" font-size="14">Converted Circuit JSON · circuit-to-svg</text>
+  </g>
+  <g transform="translate(0, 34)">
+    <style>
+              .boundary { fill: #ffffff; }
+              .schematic-boundary { fill: none; stroke: #fff; }
+              .component { fill: none; stroke: #880000; }
+              .chip { fill: rgb(255, 255, 194); stroke: #880000; }
+              .component-pin { fill: none; stroke: #880000; }
+              .text { font-family: sans-serif; fill: #008800; }
+              .pin-number { fill: rgb(169, 0, 0); }
+              .port-label { fill: #000080; }
+              .component-name { fill: #000080; }
+
+            </style><rect class="boundary" x="0" y="0" width="560" height="400"/><line class="sch-line" x1="86.91085003452801" y1="77.12508638562801" x2="473.08914996518206" y2="77.12508638562801" stroke="#880000" stroke-width="3.5107118175514" data-schematic-line-id="schematic_line_gge-line-horizontal__stack1__stack1"/><line class="sch-line" x1="86.91085003452801" y1="133.2964754664504" x2="473.08914996518206" y2="343.9391845195344" stroke="#008080" stroke-width="7.0214236351028" data-schematic-line-id="schematic_line_gge-line-diagonal__stack1__stack1"/><line class="sch-line" x1="139.571527297799" y1="294.7892190738148" x2="192.23220456107" y2="242.12854181054382" stroke="#0000FF" stroke-width="7.0214236351028" data-schematic-line-id="schematic_line_gge-bus-entry-a__stack1__stack1"/><line class="sch-line" x1="367.76779543864" y1="294.7892190738148" x2="420.428472701911" y2="242.12854181054382" stroke="#0000FF" stroke-width="7.0214236351028" data-schematic-line-id="schematic_line_gge-bus-entry-b__stack1__stack1"/><rect class="sch-rect" x="16.696613683500004" y="6.910850034600003" width="526.60677263271" height="386.178299930654" fill="none" stroke="transparent" stroke-width="0" data-schematic-rect-id="visual_comparison_source_bounds__stack1__stack1"/>
+  </g>
+  </g>
+</svg>

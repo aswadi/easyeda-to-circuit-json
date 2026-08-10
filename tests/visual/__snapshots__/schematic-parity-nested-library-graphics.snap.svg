@@ -1,0 +1,40 @@
+<svg width="1138" height="434" viewBox="0 0 1138 434" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="nested-library-graphics: EasyEDA source on left, converted Circuit JSON on right" data-left-renderer="easyedats" data-right-renderer="circuit-to-svg">
+  <g transform="translate(0, 0) scale(1, 1) translate(0, 0)">
+    <g transform="translate(0, 0) scale(1, 1) translate(0, 0)">
+    <rect width="560" height="34" fill="#111827" />
+  <text x="14" y="23" fill="#f8fafc" font-family="ui-monospace, monospace" font-size="14">EasyEDA source · easyedats</text>
+  </g>
+  <g transform="translate(0, 34) scale(3.6363636363636362, 3.508771929824561) translate(2, 2)">
+    <title>nested-library-graphics EasyEDA source</title>
+<rect class="easyeda-background" x="-2" y="-2" width="154" height="114" fill="#ffffff"/>
+<g class="easyeda-shapes" stroke-linecap="round" stroke-linejoin="round">
+<g data-easyeda-shape="LIB" data-easyeda-id="gge-library__stack1">
+<rect data-easyeda-shape="R" data-easyeda-id="gge-library-body__stack1" x="38" y="28" width="74" height="54" rx="0" ry="0" fill="#FFFACD" stroke="#880000" stroke-width="2"/>
+<ellipse data-easyeda-shape="C" data-easyeda-id="gge-library-circle__stack1" cx="56" cy="55" rx="10" ry="10" fill="none" stroke="#008080" stroke-width="1"/>
+<polyline data-easyeda-shape="PL" data-easyeda-id="gge-library-mark__stack1" points="72,68 82,42 92,68" fill="none" stroke="#880000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text data-easyeda-shape="T" data-easyeda-id="gge-library-text__stack1" x="75" y="76" fill="#000080" font-family="Arial, sans-serif" font-size="8" text-anchor="middle">SENSOR</text>
+</g>
+</g>
+  </g>
+  </g>
+  <g transform="translate(578, 0) scale(1, 1) translate(0, 0)">
+    <g transform="translate(0, 0) scale(1, 1) translate(0, 0)">
+    <rect width="560" height="34" fill="#111827" />
+  <text x="14" y="23" fill="#f8fafc" font-family="ui-monospace, monospace" font-size="14">Converted Circuit JSON · circuit-to-svg</text>
+  </g>
+  <g transform="translate(0, 34)">
+    <style>
+              .boundary { fill: #ffffff; }
+              .schematic-boundary { fill: none; stroke: #fff; }
+              .component { fill: none; stroke: #880000; }
+              .chip { fill: rgb(255, 255, 194); stroke: #880000; }
+              .component-pin { fill: none; stroke: #880000; }
+              .text { font-family: sans-serif; fill: #008800; }
+              .pin-number { fill: rgb(169, 0, 0); }
+              .port-label { fill: #000080; }
+              .component-name { fill: #000080; }
+
+            </style><rect class="boundary" x="0" y="0" width="560" height="400"/><circle class="sch-circle" cx="213.2964754663784" cy="199.999999999927" r="35.107118175514" fill="none" stroke="#008080" stroke-width="3.5107118175514" data-schematic-circle-id="schematic_circle_gge-library-circle__stack1__stack1"/><rect class="sch-rect" x="150.1036627504532" y="105.2107809260392" width="259.7926744988036" height="189.5784381477756" fill="#FFFACD" stroke="#880000" stroke-width="7.0214236351028" data-schematic-rect-id="schematic_rect_gge-library-body__stack1__stack1"/><rect class="sch-rect" x="16.696613683500004" y="6.910850034600003" width="526.60677263271" height="386.178299930654" fill="none" stroke="transparent" stroke-width="0" data-schematic-rect-id="visual_comparison_source_bounds__stack1__stack1"/><path class="sch-path" d="M 269.4678645472008 245.6392536280952 L 304.5749827227148 154.3607463717588 L 339.68210089822884 245.6392536280952" stroke="#880000" stroke-width="7.0214236351028" fill="none" stroke-linecap="round" stroke-linejoin="round"/><text class="sch-text" x="279.999999999855" y="273.72494816850644" fill="#000080" text-anchor="middle" dominant-baseline="ideographic" font-family="sans-serif" font-size="28.0856945404112px" transform="rotate(0, 279.999999999855, 273.72494816850644)">SENSOR</text>
+  </g>
+  </g>
+</svg>

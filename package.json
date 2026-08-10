@@ -1,0 +1,52 @@
+{
+  "name": "easyeda-to-circuit-json",
+  "version": "0.0.1",
+  "description": "Convert EasyEDA source documents to Circuit JSON with easyedats",
+  "type": "module",
+  "module": "lib/index.ts",
+  "types": "lib/index.ts",
+  "exports": {
+    ".": "./lib/index.ts"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tscircuit/easyeda-to-circuit-json"
+  },
+  "license": "MIT",
+  "scripts": {
+    "test": "bun test",
+    "test:update-svg": "BUN_UPDATE_SNAPSHOTS=1 bun test tests/visual",
+    "typecheck": "bunx tsc --noEmit",
+    "format": "biome format --write .",
+    "format:check": "biome format .",
+    "lint": "biome check .",
+    "check": "bun run format:check && bun run typecheck && bun test"
+  },
+  "dependencies": {
+    "circuit-json": "^0.0.465",
+    "easyedats": "https://github.com/tscircuit/easyedats/archive/1cf835f1701c10526c788865e239bdbcaa5db400.tar.gz",
+    "transformation-matrix": "^3.1.0"
+  },
+  "devDependencies": {
+    "@biomejs/biome": "^2.5.7",
+    "@tscircuit/alphabet": "^0.0.25",
+    "@tscircuit/circuit-json-util": "^0.0.106",
+    "@types/bun": "latest",
+    "bun-match-svg": "^0.0.15",
+    "circuit-json-to-connectivity-map": "^0.0.23",
+    "circuit-to-svg": "^0.0.401",
+    "schematic-symbols": "^0.0.231",
+    "sharp": "^0.35.3",
+    "stack-svgs": "^0.0.1",
+    "typescript": "^5.9.3"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  },
+  "overrides": {
+    "sharp": "^0.35.3"
+  }
+}
