@@ -142,6 +142,9 @@ test("converts EasyEDA PCB documents to typed Circuit JSON", () => {
   expect(
     result.circuitJson.filter((element) => element.type === "pcb_trace"),
   ).toHaveLength(1)
+  expect(
+    result.circuitJson.filter((element) => element.type === "source_trace"),
+  ).toHaveLength(1)
 
   const board = result.circuitJson.find(
     (element) => element.type === "pcb_board",

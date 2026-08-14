@@ -39,6 +39,7 @@ interface LibraryRecord {
 
 interface RawPort {
   pcbPortId: string
+  sourcePortId: string
   net?: string
   point: RawPoint
 }
@@ -688,7 +689,12 @@ export function convertEasyEdaPcb({
           pcb_port_id: portId,
         })
       }
-      rawPorts.push({ pcbPortId: portId, net, point: { x: pad.x, y: pad.y } })
+      rawPorts.push({
+        pcbPortId: portId,
+        sourcePortId,
+        net,
+        point: { x: pad.x, y: pad.y },
+      })
     }
 
     for (const [childIndex, child] of record.shape.children.entries()) {
@@ -807,10 +813,22 @@ export function convertEasyEdaPcb({
         if (endPortId && lastRoutePoint) {
           lastRoutePoint.end_pcb_port_id = endPortId
         }
+        const sourceNetId = netIdFor(net)
+        const sourceTraceId = `source_trace_${shapeId(shape) ?? shapeIndex}`
+        const connectedSourcePortIds = rawPorts
+          .filter((port) => net && port.net === net)
+          .map((port) => port.sourcePortId)
+        circuitJson.push({
+          type: "source_trace",
+          source_trace_id: sourceTraceId,
+          connected_source_port_ids: connectedSourcePortIds,
+          connected_source_net_ids: sourceNetId ? [sourceNetId] : [],
+          ...(net ? { name: net, display_name: net } : {}),
+        })
         circuitJson.push({
           type: "pcb_trace",
           pcb_trace_id: `pcb_trace_${shapeId(shape) ?? shapeIndex}`,
-          ...(netIdFor(net) ? { source_trace_id: netIdFor(net) } : {}),
+          source_trace_id: sourceTraceId,
           route,
         })
       } else if (isSilkscreenLayer(shape.layerId) && shape.points.length >= 2) {
