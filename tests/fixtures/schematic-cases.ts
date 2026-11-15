@@ -131,12 +131,5 @@ export const schematicFixtureCases: SchematicFixtureCase[] = [
 ]
 
 export const unsupportedShapeSource = createEasyEdaSchematicSource({
-  shapes: ["PI~M20,20 A10,10 0 0 1 40,20~#880000~1~0~none~gge-pie-unsupported"],
-})
-
-export const pathAndArcSource = createEasyEdaSchematicSource({
-  shapes: [
-    "PT~M20,20 L120,80~#880000~1~0~none~gge-path-line",
-    "A~M40,60 A20,20 0 0 1 80,60~#880000~1~0~none~gge-path-arc",
-  ],
+  shapes: ["PT~M20,20 L120,80~#880000~1~0~none~gge-path-unsupported"],
 })
